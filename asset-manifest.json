@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngoctan1234/reactjs3.git/static/css/main.073c9b0a.css",
+    "main.js": "/ngoctan1234/reactjs3.git/static/js/main.e78fc987.js",
+    "static/js/787.5ef8ea4f.chunk.js": "/ngoctan1234/reactjs3.git/static/js/787.5ef8ea4f.chunk.js",
+    "static/media/logo.svg": "/ngoctan1234/reactjs3.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngoctan1234/reactjs3.git/index.html",
+    "main.073c9b0a.css.map": "/ngoctan1234/reactjs3.git/static/css/main.073c9b0a.css.map",
+    "main.e78fc987.js.map": "/ngoctan1234/reactjs3.git/static/js/main.e78fc987.js.map",
+    "787.5ef8ea4f.chunk.js.map": "/ngoctan1234/reactjs3.git/static/js/787.5ef8ea4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e78fc987.js"
+  ]
+}
